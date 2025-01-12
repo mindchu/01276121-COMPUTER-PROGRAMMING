@@ -1,0 +1,8 @@
+inp = input("Enter a number : ")
+print(inp, type(inp))
+inp = int(inp)
+print(inp, type(inp))
+inp = float(inp)
+print(inp, type(inp))
+inp = str(inp)
+print(inp, type(inp))
